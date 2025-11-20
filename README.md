@@ -25,4 +25,8 @@ A data-driven project that tracks real-time global population statistics and vis
 
 
 ## 📂 Project Structure
-
+📁 globalpop-analyzer
+│── data/ # CSV data files
+│── scripts/ # Automation & scraping scripts
+│── dashboards/ # .pbix files for Power BI
+│── README.md
